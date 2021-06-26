@@ -1,13 +1,11 @@
-## console.log("Hei!" ?? "Xin chào!" ?? "Hello!") 👋
+## process.stdout.write("Hei!" ?? "Xin chào!" ?? "Hello!") 👋
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> Welcome to my GitHub profile! 
 
-
 I am Jonny - an Informatics student at [NTNU](https://ntnu.no/) developing web- and mobile applications from Norway ✨.
 
-I am part of [Corax](https://corax.team/) a norwegian CTF team. I enjoy playing CTFs and solving challenges while learning new things in the field of cybersecurity.
+I have always been passionate about web and mobile applications. Aside from development, I am also part of the norwegian CTF team [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
 
-- 👀 I have always been passionate about web and mobile applications, and cybersecurity.
 - 🔭 I’m currently working on Electron applications and PWAs!
 - 🌱 I’m currently learning Dart, Flutter and NextJS.
 - 👯 I’m looking to collaborate on application ideas and game development!
