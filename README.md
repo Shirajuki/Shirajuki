@@ -42,4 +42,4 @@ I have always been passionate about web and mobile applications. Aside from deve
 ### ⚡ Github Stats
 [![Shirajuki's github stats](https://github-readme-stats.vercel.app/api?username=Shirajuki&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Shirajuki's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Shirajuki&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Shirajuki's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirajuki&hide=html,css,Rich%20Text%20Format&langs_count=6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Shirajuki's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirajuki&hide=html,css,Rich%20Text%20Format,Scheme,Vim%20Script&langs_count=6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
