@@ -4,9 +4,9 @@
 
 I am Jonny - an Informatics student at [NTNU](https://ntnu.no/) developing web- and mobile applications from Norway ✨.
 
-I have always been passionate about web and mobile applications. Aside from development, I am also part of the norwegian CTF team [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
+Aside from development, I am also part of the norwegian CTF team [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
 
-- 🔭 I’m currently working on Electron applications and PWAs!
+- 🔭 I’m currently working on Figma mockups, Electron applications and PWAs!
 - 🌱 I’m currently learning Dart, Flutter and NextJS.
 - 👯 I’m looking to collaborate on application ideas and game development!
 - 📫 You can reach me at [Email](mailto:jonnynl@stud.ntnu.no), [Twitter](https://twitter.com/shirajukii), and [LinkedIn](https://www.linkedin.com/in/shirajuki/)
@@ -30,6 +30,7 @@ I have always been passionate about web and mobile applications. Aside from deve
   <img src="https://img.shields.io/badge/-MongoDB-282A36?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Git-282A36?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-44475A?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/-Figma-44475A?style=flat-square&logo=figma" />
   <img src="https://img.shields.io/badge/-Supabase-44475A?style=flat-square&logo=supabase" />
   <img src="https://img.shields.io/badge/-Heroku-44475A?style=flat-square&logo=heroku" />
   <img src="https://img.shields.io/badge/-Neovim-44475A?style=flat-square&logo=neovim" />
