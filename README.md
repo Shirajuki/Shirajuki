@@ -40,7 +40,7 @@ Aside from development, I am also part of the norwegian CTF team [Corax](https:/
 
 <br/>
 
-### ⚡ Github Stats
-[![Shirajuki's github stats](https://github-readme-stats.vercel.app/api?username=Shirajuki&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Shirajuki's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Shirajuki&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Shirajuki's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirajuki&hide=html,css,Rich%20Text%20Format,Scheme,Vim%20Script&langs_count=6&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">⚡ Github Stats</h3>
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Shirajuki&count_private=true&show_icons=true&theme=dracula" alt="Shirajuki's github stats"/></a></div>
+<div align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirajuki&theme=dracula" alt="Shirajuki's github streak"/></a></div>
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirajuki&hide=html,css,Rich%20Text%20Format,Scheme,Vim%20Script&langs_count=6&layout=compact&theme=dracula" alt="Shirajuki's github top languages"/></a></div>
