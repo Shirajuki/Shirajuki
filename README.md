@@ -7,7 +7,7 @@ I am **Jonny** - an Informatics student at [NTNU](https://ntnu.no/) Norway devel
 Aside from development, I am also part of the norwegian CTF team [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
 
 - 🔭 I’m currently working on Figma mockups, Electron applications and PWAs!
-- 🌱 I’m currently learning Dart, Flutter and NextJS.
+- 🌱 I’m currently learning ASP.NET, Flutter and NextJS.
 - 👯 I’m looking to collaborate on application ideas and game development!
 - 📫 You can reach me at [Email](mailto:jonnynl@stud.ntnu.no), [Twitter](https://twitter.com/shirajukii), and [LinkedIn](https://www.linkedin.com/in/shirajuki/)
 - 🧾 Resume: https://jonny.js.org/resume.pdf
