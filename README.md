@@ -2,17 +2,17 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> Welcome to my GitHub profile! 
 
-I am **Jonny** - an Informatics student at [NTNU](https://ntnu.no/) Norway developing web- and mobile applications. ✨.
+I am **Jonny** - an Informatics student at [NTNU](https://ntnu.no/) developing web- and mobile applications. ✨.
 
-Aside from development, I am also part of the norwegian CTF team [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
+Aside from development, I am also part of the norwegian CTF team [Bootplug](https://bootplug.io/) and [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
 
 - 🔭 I’m currently working on Figma mockups, Electron applications and PWAs!
-- 🌱 I’m currently learning ASP.NET, Flutter and NextJS.
+- 🌱 I’m currently learning ASP.NET, Rust and NextJS.
 - 👯 I’m looking to collaborate on application ideas and game development!
-- 📫 You can reach me at [Email](mailto:jonnynl@stud.ntnu.no), [Twitter](https://twitter.com/shirajukii), and [LinkedIn](https://www.linkedin.com/in/shirajuki/)
+- 📫 You can reach me at [Email](mailto:shirajuki@duck.com), [Twitter](https://twitter.com/shirajukii), and [LinkedIn](https://www.linkedin.com/in/shirajuki/)
 - 🧾 Resume: https://jonny.js.org/resume.pdf
 
-<h3 align="right">A selection of languages, technologies and tools I know: <img src="https://media.giphy.com/media/11sMx1kL4JdZGU/giphy.gif" width="50" /></h3>
+<h3 align="right">A selection of some of the languages, technologies and tools I use: <img src="https://media.giphy.com/media/11sMx1kL4JdZGU/giphy.gif" width="50" /></h3>
 
 <p align="right">
   <img src="https://img.shields.io/badge/-JavaScript-282A36?style=flat-square&logo=javascript" />
