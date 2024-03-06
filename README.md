@@ -4,7 +4,7 @@
 
 I am **Jonny** - a consultant at [Omegapoint Norge](https://omegapoint.no/) and an ex-Informatics student at [NTNU](https://ntnu.no/). Currently pentesting and developing web- and mobile applications. ✨.
 
-Aside from my 8-4, I am also part of a few norwegian CTF teams such as [Iku-toppene](https://ctftime.org/team/109611), [bootplug](https://bootplug.io/) and [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
+Aside from development, I am also part of a few norwegian CTF teams such as [Iku-toppene](https://ctftime.org/team/109611), [bootplug](https://bootplug.io/) and [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
 
 - 🔭 I’m currently working on Game development, Tauri applications and PWAs!
 - 🌱 I’m currently learning ASP.NET, C# and Next.js.
