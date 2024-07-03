@@ -6,10 +6,7 @@ I am **Jonny** - a consultant at [Omegapoint Norge](https://omegapoint.no/) and 
 
 Aside from development, I am also part of a few norwegian CTF teams such as [Iku-toppene](https://ctftime.org/team/109611), [bootplug](https://bootplug.io/) and [Corax](https://corax.team/). Playing CTFs and solving challenges while learning new things in the field of cybersecurity is something I also enjoy.
 
-- 🔭 I’m currently working on Game development, Tauri applications and PWAs!
-- 🌱 I’m currently learning ASP.NET, C# and Next.js.
-- 👯 I’m looking to collaborate on application ideas and game development!
-- 📫 You can reach me at [Email](mailto:jonny@ngoluong.no), [Twitter](https://twitter.com/shirajukii), and [LinkedIn](https://www.linkedin.com/in/shirajuki/)
+- 📫 Socials: [Twitter](https://twitter.com/shirajukii) and [LinkedIn](https://www.linkedin.com/in/shirajuki/)
 - 🧾 Resume: https://jonny.js.org/resume.pdf
 
 <br/>
